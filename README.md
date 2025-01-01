@@ -45,6 +45,11 @@ This project aims to build a sentiment analysis model to classify movie reviews 
  **Accuracy Plot**: Shows training and validation accuracy over epochs, indicating the model's learning progression.  
  **Loss Plot**: Highlights the reduction in training and validation loss, showcasing effective optimization.  
 ![Screenshot 2024-12-30 182648](https://github.com/user-attachments/assets/5f4f6ad2-247b-4fff-8f4d-571acda2448f)
+#### **Streamlit Application**
+The Streamlit app provides a user-friendly interface to input reviews, predict sentiment dynamically, and display results interactively with additional features like emojis, motivational messages, and feedback collection.
+![Screenshot 2025-01-01 202052](https://github.com/user-attachments/assets/a8d66066-2f58-4571-a51b-f9b424cb5e2a)
+
+![Screenshot 2025-01-01 202306](https://github.com/user-attachments/assets/456a6b6e-eb8c-471c-9256-2a0fb82716f4)
 
 #### **Features**  
 
@@ -56,6 +61,7 @@ This project aims to build a sentiment analysis model to classify movie reviews 
 2. **Model Saving and Reloading**  
     The trained model and tokenizer are saved for future use.  
     Supports loading the model and tokenizer for prediction or further evaluation.  
-
+3. **Interactive User Interface** 
+    The Streamlit code provides an interactive interface for real-time sentiment analysis of movie reviews, displaying results with confidence scores and engaging features like emojis and motivational messages. It enhances user experience with a visually appealing design, a feedback section, and personal branding links for professional connections, making it both functional and user-friendly.
 #### **Conclusion**  
 This project successfully demonstrates the application of deep learning for sentiment analysis. The CNN-based architecture effectively captures patterns in text, providing accurate predictions on movie reviews.  
