@@ -1,0 +1,3 @@
+streamlit
+tensorflow==2.12.0  # You can specify the version you want
+pickle-mixin
