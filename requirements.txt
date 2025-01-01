@@ -1,3 +1,3 @@
 streamlit
-tensorflow==2.12.0  # You can specify the version you want
+tensorflow==2.17.1  # or tensorflow==2.18.0
 pickle-mixin
